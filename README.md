@@ -76,10 +76,13 @@ Masukkan informasi yang diminta, seperti:
  ![Rekomendasi](https://github.com/Reswn/img-healingku/blob/main/healingkuRekomendasi.png?raw=true)
 - Detail Infromasi Wisata
   ![Rekomendasi](https://github.com/Reswn/img-healingku/blob/main/Screenshot_9-1-2025_162536_localhost.jpeg?raw=true)
+
   
+Healingku.AI hadir untuk membantu Anda merencanakan liburan dengan lebih mudah, terorganisir, dan menyenangkan. Kami percaya bahwa teknologi dapat menjadi mitra terbaik Anda dalam menikmati momen berharga tanpa khawatir tentang detail perencanaan.
 
+Jika Anda memiliki pertanyaan, masukan, atau ingin berkontribusi pada pengembangan Healingku.AI, jangan ragu untuk menghubungi kami. Selamat menikmati pengalaman liburan yang lebih baik bersama Healingku.AI!
 
----
+**"Rencanakan Liburan Anda, Nikmati Tanpa Batas!"**
      
 
 
